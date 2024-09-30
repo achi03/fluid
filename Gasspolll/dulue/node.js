@@ -1081,7 +1081,7 @@
                     "user_agent": "Mozilla/5.0"
                 },
                 {
-                	"drm_id": "bebn2",
+                	"drm_id": "ben2",
                     "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_FOYls5w9cAxTEbNd4Waj4hp4uOwRNR0t0H16ArLtkcmFfGSBdaeyoA0h78dpov4iV-uzmq-QRdqdaDH-7B-pyem6Abka2XpxPsgt5t4MQnU5rXJSy5VUkrTK8s1GPJ9rMU4T6lUcxhbShhyg3J0fgXogdaxWcVOlHi4Z8lRyXWDhfXjj2oEOJth2zc/s1280/20240914_025659.jpg",
                     "name": "Bein v2",
                     "stream_url": "https:\/\/nsvp.livestreamingbolatv1.workers.dev\/out\/v1\/cfca527d0f16403396a71b2d3d54c32f\/index.mpd?token=4",
