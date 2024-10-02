@@ -1618,7 +1618,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjdO_EK2W4zMEfbuavDXDu2JwpHB_40-OU56tJRskkEYwxEUylPAAIJ4TiTQcfjrCS64BINiQQuVVZE-yUoj0oA62ucXWNmAkAxfJ-Q1EZ-VPpQ9BOyzbbN4Y7uJX3r3R2Zypt3Euy1JX_SwW0PjL8pJqtKmS_0dfNxiwGVc0T8UIHyESbwyHwgBDplKEE\/s1280\/20240909_002010.jpg",
                     "name": "Play Sport 1",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-051\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
