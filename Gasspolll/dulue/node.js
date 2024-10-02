@@ -1626,7 +1626,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiJprfdSPZ1tbLBxv1dYjBJp5UOQ4pyMtx2_jIVOnu6_FpnTSgeEzSskDPElSImHVMUhf6lk7xQcnPaoMDdJO3ps-LzkGDPP-Fav86axxFJe1Knhwv1MUlmKqntYNAP54M0G-lWXaDtOvNXUQTQdoB_XCCXAWPnke4jemzeRk7Am4MGa-iT6JE-vcWXxpI\/s1280\/20240909_002117.jpg",
                     "name": "Play Sport 2",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-052\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1634,7 +1634,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhKDyw4wAblsIDINS2K1Uw7BJdaJczr-RnikfZY0jRBN0u3pQ48dFClgCjkhh0K0hpAiAkp1w7FXowBrGjdpdzY3Nj0rITfK_dZZe3ZIYLl_6brJVI0BVkPPQ50RWClFngIKruPrlOFCRNjKYrbT-gjgiFdmz7yILuNSYsVOPAihk4DoURK_JR4CUCPLFk\/s1280\/20240909_002146.jpg",
                     "name": "Play Sport 3",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-053\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "live1",
@@ -1762,7 +1762,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjIbRYXVokoo3SQBER2SLYe2jHzBnQ4xgxlrGX0r8S5RcV6KZk80QJ-y5MGcsfpeBytsH7oIaDeLPewIoXgn_bZ7WNr7lwMD79Dyp3RQePap_U6lanMlbv613JOiAc94PyxVaqzwKbz2AxAqEwLstodFWZvsy75fnTPU0pvvpKcXJaf-7hnB5Orp9mBG_s\/s1280\/20240909_003204.jpg",
                     "name": "Dazn 1 De",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-017\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1770,7 +1770,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEitZts1FGsJiTkqlRKtWhC2Smcx_D9-kco5xWZ04_tYt2gjSV6OQYb1ruYKbHwq0YGQgj8iFQworgMliT5aJUIt6WbibdHcY8mpL7oqVQo0UO6vkE6wdQudySOBjQYBmDaunexmFlFhY9qMhS-H_r0bJk49blZkqI6fUChNh9dS2FOwTu6h0rE27_GxVnI\/s1280\/20240909_003230.jpg",
                     "name": "Dazn 2 De",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-018\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1778,7 +1778,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjIbRYXVokoo3SQBER2SLYe2jHzBnQ4xgxlrGX0r8S5RcV6KZk80QJ-y5MGcsfpeBytsH7oIaDeLPewIoXgn_bZ7WNr7lwMD79Dyp3RQePap_U6lanMlbv613JOiAc94PyxVaqzwKbz2AxAqEwLstodFWZvsy75fnTPU0pvvpKcXJaf-7hnB5Orp9mBG_s\/s1280\/20240909_003204.jpg",
                     "name": "Dazn 1 Es",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-037\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1786,7 +1786,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEitZts1FGsJiTkqlRKtWhC2Smcx_D9-kco5xWZ04_tYt2gjSV6OQYb1ruYKbHwq0YGQgj8iFQworgMliT5aJUIt6WbibdHcY8mpL7oqVQo0UO6vkE6wdQudySOBjQYBmDaunexmFlFhY9qMhS-H_r0bJk49blZkqI6fUChNh9dS2FOwTu6h0rE27_GxVnI\/s1280\/20240909_003230.jpg",
                     "name": "Dazn 2 Es",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-038\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1794,7 +1794,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjJS1OpZ_NCM27s3-1FkQ4O2VwR4xKeF6DpHW6rWEU_sEEB4UgiZ2CMlYzzfrgE2x7VOqMRB0OCbzTWkEJf8ItSBxigxY0pW3fDUyX2yCFmcheGhFcGQbzpEBtdav0mFe75Kw5id5z3z2zVqQZVeCQSt4U3T0mEIqu91PxPTUjPwq6S_EjcVCxOIWc8wdI\/s1280\/20240909_004803.jpg",
                     "name": "Dazn 1 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-054\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1802,7 +1802,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj7lJh7wPcL8DQ_Cg9Cvi6fU2Q2vle0tTuPkYLphH74BApnkBxV7lvWc2yHe1s2RkvUkeHK_VXg4oA0ocsl6ffFcHD54ZV7FvKJJ8sB_Pe18-ROwgxa-T_iA6bPK_oYm-98tARhFDB7X5CXrs1-Zf1UAUeYtUVctOW20UlE7WxL_BHprtoqSqfhRHbe8nI\/s1280\/20240909_004848.jpg",
                     "name": "Dazn 2 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-055\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1810,7 +1810,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhOly-PBOC_QavgijGzug_mKah7Lyma7MX9xEWLAYB7bDa2mJacxFOQZiEEHr1PLyQ6ZzdLHZM0hcK66qH28aFh1n-tP96aWgyQhcbO6ymBtwrRMOcUkPqpzzKVTwyVhyphenhyphenYGGZjw99gWr2GymUTxaNwQX2q0LdPE2ZO1D_Z0CgZubQhQUc3w8dces1DUvUc\/s1280\/20240909_004921.jpg",
                     "name": "Dazn 3 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-056\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1818,7 +1818,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi47XH6pnboKhYopENe7YodrsTA2rdyipPUwud0xZVvT-iyyDKn6oplpi2Ml_WT23pRKWoG9vNEOMEpTwlPzu2KSlOh88c0_irrbx5ElySzaMvsGxm69OHN1fsHnLHbwD3i-XL-GUVRXWBsL0tK8_buWKEjartrZ1cQIlRYrNfzwaQJXNX1gTja-KNqlbs\/s1280\/20240909_004945.jpg",
                     "name": "Dazn 4 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-057\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1826,7 +1826,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi77RM2U64lGSKxvIMMZhn53NV03pZpryxEtp77YGvd62SKkDzFiugzWym9Bpj0HsMikyq86Dtz4kTnNtVEnVlcKtzOaeAulRutrP4dcSluql2TSyy0iGo6Z3goRIBJMglkfNtoCJN9n-322Xsl50R8fnT35Kg3lr-sYtgOfgTsDERsVBEKwKbpUZXdR2k\/s1280\/20240909_005216.jpg",
                     "name": "Dazn 5 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-058\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1834,7 +1834,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgiMJ0nUbq2qEhK5d5Inx7pANP_WlU1FLR_SHfzhkdOXixh62Mm5CbIpvEGmIO4NXEfDmhZnetoq8G0OJIH0OsaOel32WDUNqfPN6WHqrZM5zGzqJ5P6Cy0KcuN0m3_YAnFmYjl819bqr7w8CIcsj___7LWmNtneDh0MitLI_D1-g_jpbKOknHbnN-EOVg\/s1280\/20240909_005227.jpg",
                     "name": "Dazn 6 Eleven",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-059\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1842,7 +1842,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiWvGiznhPPz_If-L79WUb9_5f8s81y_GdKnd851Riw2pT5tl6FKKuQJzw5ZcDCR0RIaraEN8GO7RygWP0bbmEB58Rkr_-b8L1FtaASzx8Va628ZRA2VQiGb1nkN8QCk83OgQ_f6GxQf7fWYcJZxlZyad6fhmz-Zl_wCpFI87T9iJzg2LxotunzZ4nyRJc\/s1280\/20240910_232426.jpg",
                     "name": "Dazn F1",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-016\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1850,7 +1850,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEglTQIGbIlOXL5YX_e0DaVjRKDqmzmXCpc7mnwRCD3CXEWUw6c7b2qjNNFP0VQtDlwO0Fr1hEHPVro_zCVeQqRysbRFHAjpMwzYrp39Wpd_UgaG-eV0Jbs54vMweu_kvSc8nzYClrJy3pMnDrLH7m_qqfkPpFx7-fHMGSDfT3VQ0w4qxkuRiQ27DjL4Hec\/s1280\/20240910_232757.jpg",
                     "name": "Dazn Laliga",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-043\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1858,7 +1858,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEio9Nax9hnC2IVdhIWZP6X9kTM4h_e0wWQB6w6NrH-8RAPA7ILFcca33zgvso352AR0RE8w6_FzC8R4lUMMALutzwz6s8Db56WpB170grudArHTiH6S-NpM_uO93d_vAp-sBZZGhjd_-hof5dXG1fjX84fOW0V78W8zgqVXtf-NDmv7FpifDE0lpW6Bz9s\/s1280\/20240910_232652.jpg",
                     "name": "Dazn Seria",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-024\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1866,7 +1866,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjzE_87N2j2GU0CLTB7YvwWuuuwIt3Vc8EjcmCgG0IKNeYZElSm5njXP0eY1MBfWotIopb6t_DMzrEOpBQXKZzeaI8VZI4rBZLAqvyvbCSBqkkZISEbgsFevTfTiZxjOu2TaoxVr8esFJ5R2cm-lV26grUZNrFeLipcV7cO0ilJupS0DV6PKcyBYh83s6M\/s1280\/20240910_232906.jpg",
                     "name": "Laliga Tv",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-040\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "dazn",
@@ -1874,7 +1874,7 @@
                     "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhW1FyRT8FZrOf0kXaLAMyHvon-X0plrUU-MP0jj21G4dMG0irfyqczkgeeaGxqZLdl7bY_4eQvBZ6DQH9ypc0bbkaCUKEhc7xJVvckNy85WIwg2HOiirZqS173GpTrPZc5Aq-hthNZCLk8UItX0_angvrisK-vKiUHV1qaRddwVgy2KtZOQrcdqxmYpb0\/s1280\/20240911_005106.jpg",
                     "name": "Sport Digital",
                     "stream_url": "https:\/\/dce-ac-live.cdn.indazn.com\/dash\/dazn-linear-022\/stream.mpd",
-                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36"
+                    "user_agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36"
                 },
                 {
                     "drm_id": "SPOTV",
