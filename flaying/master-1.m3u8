@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:4
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:22
-#EXTINF:10.460000,
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.m3u8
+#EXTINF:1.460000,
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
